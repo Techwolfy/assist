@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from contextlib import closing
 import urllib
 import html5lib
